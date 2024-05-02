@@ -22,11 +22,6 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-```bash
-git clone https://github.com/JackyJiang0410/Understanding-Defensive-Performance-in-Soccer-by-GCN.git
-cd Understanding-Defensive-Performance-in-Soccer-by-GCN
-```
-
 ## Installation
 Clone this repository to your local machine:
 
