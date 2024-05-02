@@ -1,4 +1,4 @@
-# Understanding-Defensive-Performance-in-Soccer-by-GCN
+# Understanding-Counterattack-in-Soccer-by-GCN
 
 This repository contains the code for training and evaluating a Graph Neural Network (GNN) using specific datasets and configurations.
 
